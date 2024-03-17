@@ -1,2 +1,7 @@
-## Hi there 👋
-XiaoNetworkProject是为XiaoNetwork开发小游戏的一个项目，我们也正在努力开发有趣的小游戏，敬请期待
+[English](README.md) | [简体中文](README_cn.md)
+
+## Who We Are
+We are a subsidiary studio under TRCloud Studio, responsible for providing technical support for the XiaoNetwork Minecraft group network.
+
+## Our Goal
+Our goal is to provide the best technical support for the XiaoNetwork Minecraft group network and to offer players the best gaming experience. We will also provide players with some fun mini-games. Stay tuned!
