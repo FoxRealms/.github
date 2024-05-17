@@ -11,7 +11,7 @@
 
 不过, 你可以通过以下的一些个人联系方式来联系到本组织的管理者
 
-- 邮箱 (Xiaomckedou233): xiaomckedou@xiaomcloud.top
+- 邮箱 (Xiaomckedou233): xiaomckedou233@xiaomcserver.top
 - 邮箱 (BlueFunny): bluefunny@bluefunny.top
 
 我们之后会尽快提供一个官方的联系方式的, 尽情期待!
