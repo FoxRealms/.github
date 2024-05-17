@@ -15,5 +15,3 @@ However, you can contact the administrators of the organization through some of 
 - E-mail (BlueFunny): bluefunny@bluefunny.top
 
 We will provide an official contact information soon, so stay tuned!
-
-Translated with DeepL.com (free version)
