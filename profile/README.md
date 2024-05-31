@@ -4,7 +4,7 @@
 We are a group of people who have strange ideas and try to present them in the best possible quality!
 
 ## Our goal
-Our goal is to provide the best possible experience for those who play on the XiaoNetwork servers, and to realize many new and exciting ideas to add to the open source community!
+Our goal is to provide the best possible experience for those who play on the FoxRealms servers, and to realize many new and exciting ideas to add to the open source community!
 
 ## Contact Us
 We don't have any official contact information yet :(
